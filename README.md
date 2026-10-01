@@ -1,10 +1,6 @@
 # labbar2026
-# Namn: William avramidis
-# kurs ICX26/git och dokumentation 
 
-# Beskrivning 
 
-<<<<<<< HEAD
 ### Namn: William avramidis
 
 \### kurs ICX26/git och dokumentation 
@@ -20,7 +16,7 @@
 
 |Hostname|wille|Labbb
 
-|OS|Win11|Linux Ubuntu 24.02|
+|OS|Win11|Linux Ubuntu 26.02|
 
 |ip adress|192.168.10.15|192.168.10.10|
 
@@ -29,7 +25,21 @@
 |Standard gateway|192.168.10.1|192.168.10.1|
 
 
-=======
-## Jag har använt Oracle virtualbox där två VMs finns, ett virtuellt nätverk kopplades mellan datorerna (internal network) och datorerna fick varsin statisk IP address och ligger på sammma subnät.
->>>>>>> 041f22e5a0f5637d647174d7c5998f4fd5e2c8c6
+ ## Kommandon som användes för information.
+1: Linux
+Hostname visar hostname
+
+cat /etc/os-release
+
+Ip a - visar  IP address och subnät
+
+ip route default gateway 192.168.10.1
+
+
+2: Windows 
+Hostname
+
+systeminfo
+
+ipconfig /all
 
