@@ -80,6 +80,21 @@ ipconfig
 
 
 
+## Länk till GitHub och logg av commits
+
+
+
+
+## AI logg och UTVÄRDERING
+
+Prompten var följande Ge mig information om hur IPconfig /all fungerar och vilka scenarion är det viktigt att använda det
+https://chatgpt.com/uc/6abe2bc6-b770-83ea-b34a-0568a37f8585 
+
+Detta var svaret och det var korrekt då den beskriver i vilka scenario som Ipconfig /all kan användas i och visar exempel när det kan vara använtbart tex flushdns eller renew, samt visar vilka andra commandos som kan användas med hjälp av Ipconfig / dns tex och beskriver vad /all gör exakt men också ger ut information om vad exakt de dem gör och vad som kommer hända om den kommandos körs. Den informationen de gav, stammer väldig bra om man jämför med andra källor:
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig
+https://www.teamviewer.com/en/insights/what-does-ipconfigall-do/
+
+
 
 
 
