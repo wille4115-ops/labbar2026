@@ -31,6 +31,8 @@
  ## Kommandon som användes för information.
 1: Linux
 Hostname visar hostname
+Ubuntu ny.png
+
 
 cat /etc/os-release
 
