@@ -1,11 +1,14 @@
 # labbar2026
 
+<<<<<<< HEAD
 
 ### Namn: William avramidis
 
 \### kurs ICX26/git och dokumentation 
 
 
+=======
+>>>>>>> 32d1670f0c3bd564489f713957654b7e5a9a8692
 ### Beskrivning 
 
 ### Jag har använt Oracle virtualbox där två VMs finns, ett virtuellt nätverk kopplades mellan datorerna (internal network) och datorerna fick varsin statisk IP address och ligger på sammma subnät.
@@ -25,6 +28,7 @@
 |Standard gateway|192.168.10.1|192.168.10.1|
 
 
+<<<<<<< HEAD
  ## Kommandon som användes för information.
 1: Linux
 Hostname visar hostname
@@ -42,4 +46,6 @@ Hostname
 systeminfo
 
 ipconfig /all
+=======
+>>>>>>> 32d1670f0c3bd564489f713957654b7e5a9a8692
 
