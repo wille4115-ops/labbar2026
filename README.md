@@ -1,10 +1,8 @@
 # labbar2026
 
-<<<<<<< HEAD
-
 ### Namn: William avramidis
-
-\### kurs ICX26/git och dokumentation 
+### Datum: 2026-10-01
+### kurs ICX26/git och dokumentation 
 
 
 =======
