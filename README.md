@@ -54,10 +54,13 @@ ipconfig
 
 ## Windows Uppgifter
 * Skapade en mapp i c: med kommandot New-item-Itemtyp Directory -Path c\Systementor\Konsultdata
-<img width="906" height="280" alt="Image" src="https://github.com/user-attachments/assets/d86ca411-37de-4cd6-b798-f7479efad16c" />
+<
+ img width="906" height="280" alt="Image" src="https://github.com/user-attachments/assets/d86ca411-37de-4cd6-b798-f7479efad16c" />
 
 * Rättigheter för mappen Konsultdata
+
 <img width="1001" height="238" alt="Image" src="https://github.com/user-attachments/assets/fca67be4-36f3-4e24-8891-a3a69818820f" />
+
 * Pingade Linux
 <img width="607" height="228" alt="Image" src="https://github.com/user-attachments/assets/096fcfeb-23de-450b-a265-a5c66787ecd1" />
 
