@@ -1,6 +1,10 @@
 # labbar2026
+# Namn: William avramidis
+# kurs ICX26/git och dokumentation 
 
+# Beskrivning 
 
+<<<<<<< HEAD
 ### Namn: William avramidis
 
 \### kurs ICX26/git och dokumentation 
@@ -25,4 +29,7 @@
 |Standard gateway|192.168.10.1|192.168.10.1|
 
 
+=======
+## Jag har använt Oracle virtualbox där två VMs finns, ett virtuellt nätverk kopplades mellan datorerna (internal network) och datorerna fick varsin statisk IP address och ligger på sammma subnät.
+>>>>>>> 041f22e5a0f5637d647174d7c5998f4fd5e2c8c6
 
