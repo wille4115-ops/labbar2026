@@ -41,6 +41,7 @@ ip route default gateway 192.168.10.1
 
 
 2: Windows 
+
 Hostname
 <img width="317" height="57" alt="Image" src="https://github.com/user-attachments/assets/0d94ff54-d36a-4d8b-8f94-b90cd515583a" />
 
@@ -54,8 +55,8 @@ ipconfig
 
 ## Windows Uppgifter
 * Skapade en mapp i c: med kommandot New-item-Itemtyp Directory -Path c\Systementor\Konsultdata
-<
- img width="906" height="280" alt="Image" src="https://github.com/user-attachments/assets/d86ca411-37de-4cd6-b798-f7479efad16c" />
+
+<img width="906" height="280" alt="Image" src="https://github.com/user-attachments/assets/d86ca411-37de-4cd6-b798-f7479efad16c" />
 
 * Rättigheter för mappen Konsultdata
 
@@ -72,6 +73,7 @@ ipconfig
 ## Linux bash
 * Skappade en mapp med hjälp av kommandot mkdir 
  <img width="574" height="36" alt="Image" src="https://github.com/user-attachments/assets/25a9e99b-c6cc-43d0-8b5b-b5a3724f47d0" />
+
 * Tilldelade till Gruppen consult
 
 
