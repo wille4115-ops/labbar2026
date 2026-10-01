@@ -31,7 +31,7 @@
  ## Kommandon som användes för information.
 1: Linux
 Hostname visar hostname
-Ubuntu ny.png
+<img width="1106" height="572" alt="Image" src="https://github.com/user-attachments/assets/ff64cb76-959c-4a8c-a41d-24668b77ac98" />
 
 
 cat /etc/os-release
