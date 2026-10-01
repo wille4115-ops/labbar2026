@@ -64,23 +64,29 @@ ipconfig
 
 ## Linux bash
 * Skappade en mapp med hjälp av kommandot mkdir 
- 
+ <img width="574" height="36" alt="Image" src="https://github.com/user-attachments/assets/25a9e99b-c6cc-43d0-8b5b-b5a3724f47d0" />
 * Tilldelade till Gruppen consult
 
+
 * Rättigheter 750/640 på huvudmappen och underfilen och 640 på filen
+<img width="818" height="150" alt="Image" src="https://github.com/user-attachments/assets/927ab38b-b7b2-4937-b60c-0d424efb7a75" />
 
 * Rättighetslistan 
-
+<img width="717" height="446" alt="Image" src="https://github.com/user-attachments/assets/bf0abf53-fdf5-453b-b21d-6cff885cc7dd" />
+<img width="533" height="140" alt="Image" src="https://github.com/user-attachments/assets/8c327436-6207-42be-a164-e175435cf222" />
 
 
 
 * Ping till windows 11
+<img width="1307" height="690" alt="Image" src="https://github.com/user-attachments/assets/2489359f-40ca-4143-8250-323e16fa1acd" />
 
 
 
 ## Länk till GitHub och logg av commits
 
-
+<img width="1262" height="74" alt="Image" src="https://github.com/user-attachments/assets/029a2af5-8607-4a29-ba26-da9b861fce97" />
+<img width="1281" height="99" alt="Image" src="https://github.com/user-attachments/assets/0bfffe43-649e-4506-9a8a-d9ed7750bbc6" />
+<img width="1279" height="147" alt="Image" src="https://github.com/user-attachments/assets/619d6aba-ebf4-4f25-b5dd-a2248e0a4ea0" />
 
 
 ## AI logg och UTVÄRDERING
