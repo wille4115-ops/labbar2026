@@ -8,7 +8,6 @@
 
 
 =======
->>>>>>> 32d1670f0c3bd564489f713957654b7e5a9a8692
 ### Beskrivning 
 
 ### Jag har använt Oracle virtualbox där två VMs finns, ett virtuellt nätverk kopplades mellan datorerna (internal network) och datorerna fick varsin statisk IP address och ligger på sammma subnät.
@@ -46,5 +45,39 @@ Hostname
 systeminfo
 
 ipconfig 
+
+
+
+
+## Windows Uppgifter
+* Skapade en mapp i c: med kommandot New-item-Itemtyp Directory -Path c\Systementor\Konsultdata
+
+* Rättigheter för mappen Konsultdata
+
+* Pingade Linux
+
+* Ipconfig
+
+
+
+
+
+## Linux bash
+* Skappade en mapp med hjälp av kommandot mkdir 
+ 
+* Tilldelade till Gruppen consult
+
+* Rättigheter 750/640 på huvudmappen och underfilen och 640 på filen
+
+* Rättighetslistan 
+
+
+
+
+* Ping till windows 11
+
+
+
+
 
 
