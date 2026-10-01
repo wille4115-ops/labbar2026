@@ -29,36 +29,40 @@
  ## Kommandon som användes för information.
 1: Linux
 Hostname visar hostname
-
-
+<img width="238" height="56" alt="Image" src="https://github.com/user-attachments/assets/bca7e553-13e4-4d38-804d-a88f3b93cbee" />
 
 cat /etc/os-release
+<img width="702" height="248" alt="Image" src="https://github.com/user-attachments/assets/da4e4154-6778-4414-9df4-6cc02da0d3a0" />
 
 Ip a - visar  IP address och subnät
+<img width="1038" height="251" alt="Image" src="https://github.com/user-attachments/assets/c33e267e-7092-44ec-a661-3f0e96ab7fca" />
 
 ip route default gateway 192.168.10.1
 
 
 2: Windows 
 Hostname
+<img width="317" height="57" alt="Image" src="https://github.com/user-attachments/assets/0d94ff54-d36a-4d8b-8f94-b90cd515583a" />
 
 systeminfo
+<img width="564" height="132" alt="Image" src="https://github.com/user-attachments/assets/256819dc-32cb-4daa-a0c5-592769fac549" />
 
 ipconfig 
-
+<img width="619" height="176" alt="Image" src="https://github.com/user-attachments/assets/7b04c48d-6ef5-4bf7-92d7-443850a20629" />
 
 
 
 ## Windows Uppgifter
 * Skapade en mapp i c: med kommandot New-item-Itemtyp Directory -Path c\Systementor\Konsultdata
+<img width="906" height="280" alt="Image" src="https://github.com/user-attachments/assets/d86ca411-37de-4cd6-b798-f7479efad16c" />
 
 * Rättigheter för mappen Konsultdata
-
+<img width="1001" height="238" alt="Image" src="https://github.com/user-attachments/assets/fca67be4-36f3-4e24-8891-a3a69818820f" />
 * Pingade Linux
+<img width="607" height="228" alt="Image" src="https://github.com/user-attachments/assets/096fcfeb-23de-450b-a265-a5c66787ecd1" />
 
 * Ipconfig
-
-
+<img width="870" height="490" alt="Image" src="https://github.com/user-attachments/assets/fdcbd2a1-1048-44c6-868c-a4de90db230b" />
 
 
 
