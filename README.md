@@ -1,9 +1,8 @@
 # labbar2026
+# Namn: William avramidis
+# kurs ICX26/git och dokumentation 
 
+# Beskrivning 
 
-
-IP address
-Lagt till Systementor och konsultdata i windows
-
-Lagt in alla behörigheter på windows 11 och kollat att ip addressen fungerar
+## Jag har använt Oracle virtualbox där två VMs finns, ett virtuellt nätverk kopplades mellan datorerna (internal network) och datorerna fick varsin statisk IP address och ligger på sammma subnät.
 
