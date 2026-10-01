@@ -28,7 +28,7 @@
 |Standard gateway|192.168.10.1|192.168.10.1|
 
 
-<<<<<<< HEAD
+
  ## Kommandon som användes för information.
 1: Linux
 Hostname visar hostname
@@ -45,7 +45,6 @@ Hostname
 
 systeminfo
 
-ipconfig /all
-=======
->>>>>>> 32d1670f0c3bd564489f713957654b7e5a9a8692
+ipconfig 
+
 
