@@ -21,9 +21,12 @@
  ## Kommandon som användes för information.
 1: Linux
 Hostname visar hostname
+
 <img width="238" height="56" alt="Image" src="https://github.com/user-attachments/assets/bca7e553-13e4-4d38-804d-a88f3b93cbee" />
 
+
 cat /etc/os-release
+
 <img width="702" height="248" alt="Image" src="https://github.com/user-attachments/assets/da4e4154-6778-4414-9df4-6cc02da0d3a0" />
 
 Ip a - visar  IP address och subnät
